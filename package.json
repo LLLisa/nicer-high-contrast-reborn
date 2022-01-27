@@ -1,0 +1,21 @@
+{
+    "name": "nicer-high-contrast-reborn",
+    "displayName": "Nicer High Contrast Reborn",
+    "description": "The 'Nicer High Contrast' theme created by Rafael Sousa, reproduced because the original was removed from Marketplace for unknown reasons. Basically a high contrast theme that's more pleasant to the eyes.\" ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nice High Contrast Reborn",
+                "uiTheme": "hc-black",
+                "path": "./themes/Nice High Contrast Reborn-color-theme.json"
+            }
+        ]
+    }
+}
